@@ -1,0 +1,11 @@
+//
+//  Movies.xcconfig
+//  Movies
+//
+//  Created by xdmgzdev on 12/04/2021.
+//
+
+PRODUCT_NAME = $(TARGET_NAME)
+API_BASE_URL = api.themoviedb.org
+API_VERSION = 3
+API_KEY = 54be15827bd2e0dd0d95de616b715b8d
