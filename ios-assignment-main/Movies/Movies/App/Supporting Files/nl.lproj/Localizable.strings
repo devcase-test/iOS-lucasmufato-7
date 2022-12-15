@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Movies
+
+  Created by xdmgzdev on 13/04/2021.
+  
+*/
+
+"movie_popular_title" = "Populaire films";
+"movie_toprated_title" = "Best beoordeelde films";
+"tabitem_popular_title" = "Populaire";
+"tabitem_toprated_title" = "Best beoordeelde";
+"movies_navbar_title" = "Films";
+"more_tabitem_title" = "Meer";
+"alert_error_title" = "Error";
+"alert_error_message" = "Er is iets fout gegaan!";
+"more_description_label" = "Mobile chapter 2021";
